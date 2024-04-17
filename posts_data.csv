@@ -1,0 +1,51 @@
+user_id,item_id,liked,title,tag_fashion,tag_food,tag_home,tag_travel,tag_art,tag_health,tag_DIY,tag_self-care,tag_inspiration,tag_photography
+17,1026,1,Fashion Trends for This Season,0,0,1,1,1,0,0,1,0,0
+40,1038,0,Delicious Recipes to Try at Home,1,1,1,0,1,1,0,1,1,1
+23,1030,1,10 Home Decor Ideas to Beautify Your Space,1,0,1,0,1,0,1,1,1,1
+17,1045,0,Top Travel Destinations for Adventure Seekers,0,1,0,1,0,1,0,0,1,0
+11,1034,0,Exploring the World of Art and Design,0,0,1,0,0,0,1,0,1,0
+24,1002,1,Healthy Living: Tips for a Balanced Lifestyle,0,0,0,0,0,0,0,1,0,1
+16,1028,1,DIY Projects for Creative Minds,1,1,1,1,0,0,1,0,0,1
+9,1020,0,The Ultimate Guide to Self-Care,0,1,0,0,1,1,1,0,0,1
+38,1003,1,Inspiring Quotes to Brighten Your Day,1,0,1,0,1,0,1,0,0,1
+7,1010,1,Capturing Moments: Photography Tips,1,0,1,0,0,0,0,1,0,1
+31,1029,0,Discovering New Music: Must-Listen Tracks,1,0,0,1,1,0,0,0,1,1
+3,1040,0,The Power of Meditation: Finding Inner Peace,0,0,1,0,0,0,1,1,1,0
+20,1045,0,Mindful Eating: Nourishing Your Body and Soul,0,1,1,0,1,0,0,0,1,1
+37,1016,0,Stay Fit and Active: Exercise Ideas,1,0,1,0,1,0,1,1,0,1
+16,1043,1,Bookworm's Paradise: Must-Read Books,1,0,0,0,1,1,0,0,1,1
+27,1025,1,Exploring Different Cultures: Cultural Festivals,0,1,0,1,0,0,0,1,0,0
+28,1046,1,Gardening Tips for Green Thumbs,0,0,0,1,1,0,0,0,0,1
+30,1040,1,Budget-Friendly Travel Tips,1,0,0,1,1,1,1,0,0,1
+17,1048,1,Stunning Wedding Ideas for Your Special Day,0,1,0,1,0,1,0,0,0,1
+32,1032,0,Unlocking Creativity: Artistic Inspiration,0,0,0,1,0,0,0,1,0,0
+14,1013,1,Healthy Snack Ideas for On-the-Go,1,0,0,0,0,1,0,0,0,0
+35,1005,0,Mindfulness in Daily Life: Simple Practices,0,0,0,0,1,1,1,0,1,0
+43,1019,1,Fashionable Accessories for Every Occasion,1,1,0,0,0,1,1,0,0,0
+27,1012,0,Delightful Desserts to Satisfy Your Sweet Tooth,0,0,0,1,0,0,1,1,1,0
+40,1020,0,Interior Design Trends: Stylish Ideas,1,0,1,1,0,0,1,1,1,1
+26,1045,1,Adventures in Nature: Outdoor Activities,0,0,0,0,0,1,1,0,1,1
+5,1030,0,Crafting for Fun: DIY Projects,0,0,1,1,0,0,1,1,1,1
+20,1005,1,Digital Nomad Lifestyle: Working Remotely,0,0,1,0,0,0,1,1,0,0
+36,1001,1,Culinary Adventures: Exploring New Cuisines,0,0,1,1,1,1,1,0,1,1
+1,1008,1,Inspirational Stories of Resilience,1,1,0,1,0,0,0,0,0,1
+6,1020,1,Healthy Habits for a Happy Life,1,0,0,0,1,0,1,1,0,0
+4,1014,1,Artisanal Crafts: Handmade Treasures,0,0,1,0,0,0,1,1,1,0
+31,1025,1,Travel Photography: Capturing Memories,0,0,1,0,1,1,1,0,0,1
+44,1040,1,Mindful Parenting: Nurturing Growth,1,0,0,1,1,0,0,0,1,1
+30,1037,0,Creative Writing Prompts: Spark Your Imagination,0,1,1,1,0,0,0,1,1,0
+23,1033,0,Eco-Friendly Living: Sustainable Practices,1,0,0,1,0,0,0,0,1,0
+50,1048,0,Exploring the World of Fashion,1,1,0,0,1,1,0,0,0,0
+14,1016,0,Tasty Breakfast Ideas to Start Your Day Right,1,0,1,0,0,1,1,1,0,1
+30,1048,1,Home Office Essentials for Productivity,0,1,1,1,0,1,0,0,1,0
+5,1030,1,Finding Balance: Work-Life Harmony,1,1,1,0,0,0,0,0,1,0
+11,1026,0,Exploring Local Cuisine: Foodie Adventures,0,0,0,0,1,1,0,0,0,0
+2,1041,1,Mindfulness Meditation: Calm Your Mind,1,1,1,1,0,1,0,0,0,0
+11,1009,0,Outdoor Entertaining Ideas for Summer,0,0,0,1,1,1,1,0,1,0
+38,1038,0,The Joy of Painting: Artistic Expression,0,1,1,1,1,0,1,1,0,1
+3,1046,1,Discovering Hidden Gems: Travel Secrets,0,0,1,1,1,1,1,1,1,1
+17,1050,1,Mindful Movement: Yoga for Wellness,1,0,1,1,0,1,0,1,0,0
+38,1038,1,The Power of Positive Thinking,0,0,1,0,0,1,0,0,0,0
+45,1018,0,Stylish Outfit Ideas for Every Season,1,1,0,0,0,1,0,1,0,1
+17,1022,0,Healthy Skin Habits: Skincare Tips,1,1,0,1,0,0,0,0,1,0
+39,1032,1,Sustainable Fashion: Ethical Choices,1,1,0,1,0,1,0,1,1,1
